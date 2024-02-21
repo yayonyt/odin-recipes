@@ -1,19 +1,33 @@
 body {
 
 background-color: grey;
+font-family: sans-serif;
 
 }
 
-h1 {
+#heading {
 
 background-color: grey;
 color: darkgreen;
+font-weight: 800;
 
 }
 
-a ul {
+ul li {
 
 color: aliceblue;
-background-color: black;
+background-color: grey;
+
+}
+
+.subheading {
+
+    color: lightgreen;
+
+}
+
+.content {
+
+    color: aquamarine;
 
 }

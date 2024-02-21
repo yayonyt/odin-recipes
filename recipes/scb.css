@@ -1,0 +1,25 @@
+body {
+
+    background-color: grey;
+    font-family: sans-serif;
+
+}
+
+#heading {
+
+    color: darkgreen;
+    font-weight: 800;
+
+}
+
+.subheading {
+
+    color: lightgreen;
+
+}
+
+.content {
+
+    color: aquamarine;
+
+}
